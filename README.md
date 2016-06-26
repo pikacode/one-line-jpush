@@ -7,14 +7,14 @@
  
 
 
-### 立即推送
-----------------------------------------
+## 立即推送
+
 进入[极光推送控制台](https://www.jpush.cn/common/apps)->yourAppName->推送->发送通知，点击**立即发送
 **，在手机上即可立即收到推送消息！
   ![](http://upload-images.jianshu.io/upload_images/1944178-d988ea39b17da30d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
-### 终端运行脚本方法
-----------------------------------------
+## 终端运行脚本方法
+
 完全不会终端的童鞋看这里
 
 1. 在 Launcpad 中打开 Mac OSX 的终端应用
