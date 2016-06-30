@@ -16,15 +16,16 @@
 完全不会终端的童鞋看这里
 
 1. 在 Launcpad 中打开 Mac OSX 的终端应用
-![](http://upload-images.jianshu.io/upload_images/1944178-6ac4c6c96f822863.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+ ![](http://upload-images.jianshu.io/upload_images/1944178-6ac4c6c96f822863.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 2. 先输入 **`cd 空格`**
-3. 再在已经复制到项目根目录中的 `install_jpush.py` 文件点击**右键**选择 `显示简介`，双击以全选弹出的菜单中`位置`后面的内容
+3. 再在项目根目录中的任意文件点击**右键**选择 `显示简介`，双击以全选弹出的菜单中`位置`后面的内容
 
   ![](http://upload-images.jianshu.io/upload_images/1944178-e6ff578d36dfd314.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-4. 复制绝对路径到终端`cd 空格`的后面，并回车，输入安装命令：
-        ./install_jpush.py -appkey yourAppkey
+4. 复制绝对路径到终端`cd 空格`的后面，并回车，这样就进入了该目录下。
 
-  ![](http://upload-images.jianshu.io/upload_images/1944178-2443aff407059267.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+5. 输入安装命令：
+        appkey=yourAppkey platform=native npm install one-line-jpush-ios
 
-5.等待显示`successfully`等字样则安装完成
+6.等待显示`successfully`等字样则安装完成
