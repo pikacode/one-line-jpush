@@ -13,7 +13,6 @@
 
 ## 终端运行脚本方法
 
-完全不会终端的童鞋看这里
 
 1. 在 Launcpad 中打开 Mac OSX 的终端应用
 
@@ -28,4 +27,4 @@
 5. 输入安装命令：
         appkey=yourAppkey platform=native npm install one-line-jpush-ios
 
-6.等待显示`successfully`等字样则安装完成
+6. 等待显示`successfully`等字样则安装完成
